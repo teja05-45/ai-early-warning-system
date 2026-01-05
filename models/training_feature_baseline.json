@@ -1,0 +1,19 @@
+{
+    "ticket_age_days": 30.152444444444445,
+    "assigned_engineer_load": 12.606777777777777,
+    "past_sla_breaches": 1.56,
+    "avg_resolution_time": 5.569789341033743,
+    "reopen_count": 1.0033333333333334,
+    "customer_escalations": 0.09944444444444445,
+    "weekend_flag": 0.3,
+    "workload_trend_7d": -0.004809583695739413,
+    "resolution_delay_trend": 0.1989430785917463,
+    "priority_encoded": 2.026666666666667,
+    "avg_engineer_load_7d": 12.594182804232805,
+    "escalations_7d": 0.6344444444444445,
+    "engineer_load_trend": -0.0074444444444444445,
+    "resolution_delay_trend_7d": 0.199669748074331,
+    "risk_label_lag_1": 0.179,
+    "risk_score_proxy": 0.2796888888888889,
+    "risk_trend_7d": -0.005044444444444445
+}
